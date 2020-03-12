@@ -8,5 +8,21 @@
     min-height: 360px;
 }
 
+#main-2 {
+    display: inline;
+    text-align: center;
+}
+
+#main-2 div {
+    float: left;
+    width: 20%;
+    margin-left: 10%;
+}
+
+#main-2 div:after {
+    clear: both;
+    display: table;
+    content: "";
+}
 
 
