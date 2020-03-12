@@ -1,5 +1,20 @@
 /* ---------------------------------------------- backgroud */ 
 
+#logo-div{
+    float: left;
+
+}
+
+#logo-logo {
+    height: 75px;
+    width: 125px;
+    border-radius: 50%;
+}
+
+#nav {
+    float: right;
+}
+
 #main-1 {
     background: url(../images/cropped-banner01-04_orig.png);
     background-position: center;
