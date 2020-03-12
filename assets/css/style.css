@@ -1,2 +1,12 @@
+/* ---------------------------------------------- backgroud */ 
+
+#main-1 {
+    background: url(../images/cropped-banner01-04_orig.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+}
+
 
 
