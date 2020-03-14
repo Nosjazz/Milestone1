@@ -1,43 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
+
+
+/* ---------------------------------------------- Header */ 
+
+header {
+    margin:0;
+}
+
+.logo {
+    background: url(../images/logo.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 50px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+
 /* ---------------------------------------------- backgroud */ 
 
-#logo-div{
-    float: left;
-
-}
-
-#logo-logo {
-    height: 75px;
-    width: 125px;
-    border-radius: 50%;
-}
-
-#nav {
-    float: right;
-}
-
 #main-1 {
-    background: url(../images/cropped-banner01-04_orig.png);
+    background: url("../images/main.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 360px;
+    min-height: 350px;
 }
-
-#main-2 {
-    display: inline;
-    text-align: center;
-}
-
-#main-2 div {
-    float: left;
-    width: 20%;
-    margin-left: 10%;
-}
-
-#main-2 div:after {
-    clear: both;
-    display: table;
-    content: "";
-}
-
-
