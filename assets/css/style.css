@@ -81,7 +81,8 @@ header .row {
 
 #main-4 img{
     margin-top: 45px;
-    min-height: 350px;
+    max-height: 350px;
+    min-height: 241px;
     min-width: 100%;
 }
 /* ---------------------------------------------- Footer */ 
