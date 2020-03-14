@@ -64,12 +64,29 @@ header .row {
 }
 
 #main-2 {
+    margin-top: 45px;
     float: none;
 }
 
+
+#main-3 {
+    margin-top: 45px;
+    max-height: 350px;
+}
+
+.d-block {
+    max-height: 350px;
+}
+
+#main-4 img{
+    margin-top: 45px;
+    min-height: 350px;
+    min-width: 100%;
+}
 /* ---------------------------------------------- Footer */ 
 
 footer {
+    margin-top: 45px;
     background-color: #525252;
     color: #fafafa;
     min-height: 54px;
