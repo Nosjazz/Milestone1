@@ -47,6 +47,15 @@ header .row {
     -webkit-transition: all .5s ease-in-out;
 }
 
+.header {
+    z-index: 1;
+    overflow: hidden;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+    background-color: #fafafa
+}
+
 .navbar {
     position: relative;
     float: right;
@@ -56,11 +65,18 @@ header .row {
 /* ---------------------------------------------- backgroud */ 
 
 #main-1 {
+    min-height: 500px;
+    margin-top: 55px;
+}
+
+#main-1-picture {
     background: url("../images/rsz_main.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 350px;
+    display: block;
+    width: 100%;
+    min-height: 500px;
 }
 
 #main-2 {
@@ -71,8 +87,13 @@ header .row {
 
 
 #main-3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 45px;
     max-height: 350px;
+    min-height: 241px;
+    min-width: 75%;
 }
 
 .d-block {
@@ -80,12 +101,19 @@ header .row {
 }
 
 #main-4 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 45px;
     max-height: 350px;
     min-height: 241px;
-    min-width: 100%;
+    min-width: 75%;
 }
 
+#button-main-4 {
+    margin-top: 45px;
+    text-align: center;
+}
 
 /* ---------------------------------------------- Footer */ 
 
