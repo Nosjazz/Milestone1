@@ -115,6 +115,42 @@ header .row {
     text-align: center;
 }
 
+
+/* ---------------------------------------------- Ressala */
+
+.div-ressala {
+    margin-top: 45px;
+    text-align: center;
+}
+
+.headder-ressala, .h3-ressala {
+    color: #995a33;
+}
+
+.headder-ressala {
+    margin-top: 45px;
+    text-align: center;
+    font-family: "Exo", sans-serif;
+    font-weight: 100;
+}
+
+.headder-ressala h1 {
+    font-weight: 600;
+}
+
+.headder-ressala h2 {
+    font-weight: 300;
+}
+
+.h3-ressala {
+    font-family: "Robboto", sans-serif;
+    margin-top: 45PX;
+}
+
+#button_enroll_school {
+    margin-top: 45px;
+    text-align: center;
+}
 /* ---------------------------------------------- Footer */ 
 
 footer {
