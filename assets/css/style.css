@@ -90,7 +90,7 @@ header .row {
 }
 
 
-#main-3 {
+#main-3 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -100,21 +100,7 @@ header .row {
     min-width: 75%;
 }
 
-.d-block {
-    max-height: 350px;
-}
-
-#main-4 img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 45px;
-    max-height: 350px;
-    min-height: 241px;
-    min-width: 75%;
-}
-
-#button-main-4 {
+#button-main-3 {
     margin-top: 45px;
     text-align: center;
 }
@@ -155,6 +141,18 @@ header .row {
     margin-top: 45px;
     text-align: center;
 }
+
+
+/* ---------------------------------------------- Prayer */ 
+
+#Prayer_time {
+    margin-top: 45px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 75%;
+}
+
+
 /* ---------------------------------------------- Footer */ 
 
 footer {
