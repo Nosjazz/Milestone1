@@ -153,6 +153,33 @@ header .row {
 }
 
 
+/* ---------------------------------------------- Gallery */ 
+
+
+.gallery_masonry {
+    clear: both;
+    line-height: 0;
+    column-gap: 0px;
+    column-gap: 0px;
+    column-count: 3;
+}
+
+.gallery_masonry img {
+  width: 100% !important;
+  height: auto !important;
+}
+
+@media screen and (max-width: 880px) {
+    .gallery_masonry {
+        column-count: 2;
+    }
+}
+
+.gallery_h1 {
+    margin-top: 45px;
+    color: #995a33;
+}
+
 /* ---------------------------------------------- Footer */ 
 
 footer {
