@@ -205,6 +205,25 @@ header .row {
 }
 
 
+/* ---------------------------------------------- Contact */ 
+
+
+#contact_h1 {
+    margin-top: 45px;
+    font-family: "Roboto", sans-serif;
+
+
+}
+
+#contact_form label{
+    font-family: "Exo", sans-serif;
+    margin-top: 27.5px;
+}
+
+#contact_btn_submit {
+    margin: 40px auto 15px auto;
+    min-width: 75%;
+}
 
 /* ---------------------------------------------- Footer */ 
 

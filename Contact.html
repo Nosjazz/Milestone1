@@ -60,25 +60,39 @@
     </div>
 
     <div>
-        <h1> Contact Us! </h1>
-        <form>
+        <h1 id="contact_h1"> Contact Us! </h1>
+        <form id="contact_form">
             <div class="row">
                 <div class="col-md-6">
-                <input type="text" class="form-control" placeholder="First name">
+                    <label for="FN">First Name</label>
+                    <input type="text" class="form-control" placeholder="First name" id="FN">
                 </div>
                 <div class="col-md-6">
-                <input type="text" class="form-control" placeholder="Last name">
+                    <label for="LN">Last Name</label>
+                    <input type="text" class="form-control" placeholder="Last name" id="LN">
                 </div>
                 <div class="col-md-12">
-                <input type="email" class="form-control" placeholder="Email Address">
+                    <label for="email">Email Address</label>
+                    <input type="email" class="form-control" placeholder="Email Address" id="email">
                 </div>
-                <div class="col-md-12">
-                <input type="phone" class="form-control" placeholder="Phone Number">
+                <div class="col-md-6">
+                    <label for="PN">Phone Number</label>
+                    <input type="phone" class="form-control" placeholder="Phone Number" id="PN">
+                </div>
+                <div class="col-md-6">
+                    <label class="my-1 mr-2" for="live">Do you live in Cork?</label>
+                    <select class="custom-select my-1 mr-sm-2" id="live">
+                        <option selected>Choose...</option>
+                        <option value="1">Yes</option>
+                        <option value="2">No</option>
+                        <option value="3">Classified information</option>
+                    </select>
                 </div>
                 <div class="form-group col-md-12">
                     <label for="comment">Your Question</label>
                     <textarea class="form-control" rows="5" id="comment"></textarea>
                 </div>
+                <button type="submit" class="btn btn-success" id="contact_btn_submit">Submit</button>
             </div>
         </form>
     </div>
