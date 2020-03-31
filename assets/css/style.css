@@ -10,6 +10,7 @@
 
 h1,h2,h3,h4 {
     margin: 0;
+    color: #995a33;
 }
 
 .uppercase {
@@ -179,6 +180,31 @@ header .row {
     margin-top: 45px;
     color: #995a33;
 }
+
+
+/* ---------------------------------------------- About */ 
+
+#about_picfront {
+    max-width: 100%;
+}
+
+
+#about_h1 {
+    margin-top: 45px;
+}
+
+#about_info {
+    text-align: center;
+    margin-top: 45px;
+}
+
+#about_info p{
+    font-family: "Exo", sans-serif;
+    font-weight: 600;
+    font-size: 27.5px;
+}
+
+
 
 /* ---------------------------------------------- Footer */ 
 
