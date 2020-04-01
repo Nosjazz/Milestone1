@@ -83,6 +83,11 @@ header .row {
     min-height: 500px;
 }
 
+#main_1-5 {
+    margin-top: 45px;
+    text-align: center;
+}
+
 #main-2 {
     margin-top: 45px;
     float: none;
@@ -159,8 +164,13 @@ header .row {
     text-align: center;
 }
 
+#prayer_iqama h1 {
+    margin-bottom: 22.5px;
+}
+
 #prayer_download_current {
-    margin-top: 45px;
+    margin-top: 22.5px;
+    margin-bottom: 45px;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
@@ -243,4 +253,10 @@ footer {
     background-color: #525252;
     color: #fafafa;
     min-height: 54px;
+}
+
+footer h5 {
+    font-family: "Robboto", sans-serif;
+    font-weight: 200;
+    font-size: 15px;
 }
