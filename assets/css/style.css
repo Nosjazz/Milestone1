@@ -41,7 +41,6 @@ header .row {
 }
 
 .logo {
-    background: url(../images/logo.jpg);
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -153,7 +152,19 @@ header .row {
     max-width: 75%;
 }
 
+#prayer_iqama {
+    margin-top: 45px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
 
+#prayer_download_current {
+    margin-top: 45px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
 /* ---------------------------------------------- Gallery */ 
 
 
