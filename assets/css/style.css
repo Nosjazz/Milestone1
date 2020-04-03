@@ -4,13 +4,11 @@
 
 /* ---------------------------------------------- Specials */
 
-* {
-    font-family: "Robboto", sans-serif;
-}
-
 h1,h2,h3,h4 {
+    font-family: "Robboto", sans-serif;
     margin: 0;
     color: #995a33;
+    font-weight: 400;
 }
 
 .uppercase {
@@ -104,6 +102,11 @@ header .row {
     text-align: center;
 }
 
+#main-2 .row {
+    margin-bottom: 22.5px;
+    float: none;
+}
+
 
 #main-3 img{
     display: block;
@@ -139,12 +142,8 @@ header .row {
     font-weight: 100;
 }
 
-.headder-ressala h1 {
-    font-weight: 600;
-}
-
 .headder-ressala h2 {
-    font-weight: 300;
+    font-weight: 200;
 }
 
 .h3-ressala {
@@ -207,8 +206,10 @@ header .row {
     }
 }
 
+
 .gallery_h1 {
     margin-top: 45px;
+    margin-bottom: 22.5px;
     color: #995a33;
 }
 
@@ -222,6 +223,7 @@ header .row {
 
 #about_h1 {
     margin-top: 45px;
+    margin-bottom: 22.5px;
 }
 
 #about_info {
@@ -241,14 +243,12 @@ header .row {
 
 #contact_h1 {
     margin-top: 45px;
+    margin-bottom: 22.5px;
     font-family: "Roboto", sans-serif;
-
-
 }
 
 #contact_form label{
     font-family: "Exo", sans-serif;
-    margin-top: 27.5px;
 }
 
 #contact_btn_submit {
