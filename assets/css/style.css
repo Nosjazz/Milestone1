@@ -93,11 +93,12 @@ header .row {
 
 #main_1-5 {
     margin-top: 45px;
+
     text-align: center;
 }
 
 #main-2 {
-    margin-top: 45px;
+    margin-top: 22.5px;
     float: none;
     text-align: center;
 }
@@ -127,7 +128,7 @@ header .row {
 /* ---------------------------------------------- Ressala */
 
 .div-ressala {
-    margin-top: 45px;
+    margin-top: 22.5px;
     text-align: center;
 }
 
@@ -148,7 +149,7 @@ header .row {
 
 .h3-ressala {
     font-family: "Robboto", sans-serif;
-    margin-top: 45PX;
+    margin-top: 45px;
 }
 
 #button_enroll_school {
