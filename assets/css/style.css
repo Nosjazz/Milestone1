@@ -296,12 +296,24 @@ footer {
     margin-top: 45px;
     background-color: #525252;
     color: #fafafa;
-    min-height: 54px;
+    min-height: 45px;
+    text-align: center;
 }
 
 footer h5 {
+    margin-top: auto;
+    line-height: 45px;
     font-family: "Robboto", sans-serif;
     font-weight: 200;
     font-size: 15px;
+}
+
+.icon {
+    letter-spacing: 5px;
+}
+
+.icon i {
+    line-height: 45px;
+    font-size: 22.5px;
 }
 
