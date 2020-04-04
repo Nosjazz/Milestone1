@@ -308,6 +308,10 @@ footer h5 {
     font-size: 15px;
 }
 
+footer a:hover {
+    color: #fafa;
+}
+
 .icon {
     letter-spacing: 5px;
 }
