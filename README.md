@@ -1,35 +1,52 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome Nosjazz,
+Welcome to Nicolas Vandendriessche's User Centric Frontend Development Milestone Project!
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+##Bugs
 
-## Gitpod Reminders
+###General:
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Ensure footer line height is not an issue while in small resolution
 
-`python3 -m http.server`
+Review NavBar background colour
 
-A blue button should appear to click: *Expose*,
+Fix nav-bar in SM (does not pop correclty)
 
-Another blue button should appear to click: *Open Browser*.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+###Home:
 
-A blue button should appear to click: *Expose*,
+Change current "Rissalah school, Prayer time and gallery" width to take more space in md and lg screens
 
-Another blue button should appear to click: *Open Browser*.
+Maybe add a section with text to prevent image overload
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+###Rissalah:
 
-## Updates Since The Instructional Video
+Improve layout and style of content
+    Remove <ul> and <ol> 
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+###Prayer:
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Improve layout and style of Iqama section
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Set max-height of picture (not too sure how to do it for SM and XL screens)
 
---------
+Keep Carousel or change layout to have previews only?
 
-Happy coding!
+###Galery:
+
+Add third section and iframe
+
+###About us:
+
+Maybe add presentation of people
+
+###Contact Us:
+
+Fixe line height "do you live in Cork? "
+
+
+
+
+
+
+Happy review!

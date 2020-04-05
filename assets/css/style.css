@@ -149,7 +149,7 @@ header .row {
     margin-top: 45px;
     max-height: 360px;
     min-height: 241px;
-    min-width: 75%;
+    width: 75%;
 }
 
 #button-main-3 {
@@ -193,12 +193,6 @@ header .row {
 
 /* ---------------------------------------------- Prayer */ 
 
-#Prayer_time {
-    margin-top: 45px;
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 75%;
-}
 
 #prayer_iqama {
     margin-top: 45px;
@@ -218,6 +212,17 @@ header .row {
     margin-left: auto;
     text-align: center;
 }
+
+#Prayer_time {
+    margin-top: 45px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 75%;
+    max-height: 100%;
+}
+
+
+
 /* ---------------------------------------------- Gallery */ 
 
 
@@ -288,6 +293,15 @@ header .row {
 #contact_btn_submit {
     margin: 40px auto 15px auto;
     min-width: 75%;
+}
+
+#contact_form p {
+    font-size: small;
+}
+
+#contact_form label {
+    font-family: "Roboto", sans-serif;
+    margin-top: 22.5px;
 }
 
 /* ---------------------------------------------- Footer */ 
