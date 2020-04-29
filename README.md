@@ -35,8 +35,6 @@ Content used from previous website, code from stackoverflow, bootstrap, ...
 
 ### Home:
 
-Change current "Rissalah school, Prayer time and gallery" width to take more space in md and lg screens
-
 Maybe add a section with text to prevent image overload
 
 ### Rissalah:
