@@ -35,9 +35,6 @@ Content used from previous website, code from stackoverflow, bootstrap, ...
 
 ### General:
 
-Ensure footer line height is not an issue while in small resolution
-
-Review NavBar background colour
 
 Fix nav-bar in SM (does not pop correclty)
 
@@ -71,6 +68,12 @@ Maybe add presentation of people
 ### Contact Us:
 
 Fixe line height "do you live in Cork? "
+
+
+### Less important
+
+Ensure footer line height is not an issue while in small resolution
+
 
 ## Conclusion
 
