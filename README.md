@@ -33,12 +33,6 @@ Content used from previous website, code from stackoverflow, bootstrap, ...
 
 ## Bugs
 
-### General:
-
-
-Fix nav-bar in SM (does not pop correclty)
-
-
 ### Home:
 
 Change current "Rissalah school, Prayer time and gallery" width to take more space in md and lg screens
