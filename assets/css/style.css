@@ -143,16 +143,13 @@ header .row {
 
 #main-3 img{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 45px;
+    margin: 22.5px auto;
     max-height: 360px;
     min-height: 241px;
     width: 75%;
 }
 
 #button-main-3 {
-    margin-top: 45px;
     text-align: center;
 }
 
