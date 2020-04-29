@@ -110,8 +110,12 @@ header .row {
     text-align: center;
 }
 
-#main-2 {
+#main_1-quote p {
     margin-top: 22.5px;
+}
+
+#main-2 {
+    margin-top: 45px;
     float: none;
     text-align: center;
 }
@@ -150,6 +154,10 @@ header .row {
 }
 
 #button-main-3 {
+    text-align: center;
+}
+
+#main-3 p {
     text-align: center;
 }
 
