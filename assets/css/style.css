@@ -11,6 +11,10 @@ h1,h2,h3,h4 {
     font-weight: 400;
 }
 
+ul,ol {
+    list-style: none;
+}
+
 .uppercase {
     text-transform: uppercase;
 }
@@ -192,6 +196,11 @@ header .row {
 .h3-ressala {
     font-family: "Robboto", sans-serif;
     margin-top: 45px;
+    margin-bottom: 11.25px;
+    text-align: center;
+}
+.h3-ressala ul,li {
+    margin-top: 11.25px;
 }
 
 #button_enroll_school {
