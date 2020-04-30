@@ -31,18 +31,6 @@ https://nosjazz.github.io/Milestone1/.
 
 Content used from previous website, code from stackoverflow, bootstrap, ...
 
-### Prayer:
-
-Improve layout and style of Iqama section
-
-Set max-height of picture (not too sure how to do it for SM and XL screens)
-
-Keep Carousel or change layout to have previews only?
-
-### Contact Us:
-
-Fixe line height "do you live in Cork? "
-
 
 ### Less important
 
