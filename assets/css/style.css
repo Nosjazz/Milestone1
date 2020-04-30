@@ -300,7 +300,11 @@ header .row {
 }
 
 #contact_btn_submit {
-    margin: 40px auto 15px auto;
+    margin: 0 auto 15px auto;
+    text-align: center;
+}
+
+#contact_btn_submit button{
     min-width: 75%;
 }
 
