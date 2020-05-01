@@ -32,11 +32,6 @@ https://nosjazz.github.io/Milestone1/.
 Content used from previous website, code from stackoverflow, bootstrap, ...
 
 
-### Less important
-
-Ensure footer line height is not an issue while in small resolution
-
-
 ## Conclusion
 
 

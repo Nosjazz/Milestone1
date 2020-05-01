@@ -115,9 +115,10 @@ header .row {
 
 #main_1-5 {
     margin-top: 45px;
+    margin-right: 22.5px;
+    margin-left: 22.5px;
     text-align: center;
 }
-
 
 #main-2 {
     margin-top: 45px;
@@ -150,8 +151,8 @@ header .row {
     max-width: 75%;
 }
 
-#main_2.5-quote p {
-    margin-top: 22.5px;
+#main_2.1_quote {
+    max-width: 75%;
 }
 
 #main-3 img{
