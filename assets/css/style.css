@@ -55,6 +55,11 @@ a:hover
      cursor:pointer;  
 }
 
+.spacing {
+    margin-right:22.5px;
+    margin-left:22.5px;
+}
+
 /* ---------------------------------------------- Header */ 
 
 header {
@@ -115,8 +120,6 @@ header .row {
 
 #main_1-5 {
     margin-top: 45px;
-    margin-right: 22.5px;
-    margin-left: 22.5px;
     text-align: center;
 }
 
@@ -151,9 +154,6 @@ header .row {
     max-width: 75%;
 }
 
-#main_2.1_quote {
-    max-width: 75%;
-}
 
 #main-3 img{
     display: block;
