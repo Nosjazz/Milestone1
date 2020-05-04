@@ -235,6 +235,9 @@ header .row {
 
 /* ---------------------------------------------- Gallery */ 
 
+#gallery-h1 {
+    margin-top: 45px;
+}
 
 .gallery_masonry {
     clear: both;
@@ -256,7 +259,7 @@ header .row {
 }
 
 
-.gallery_h1 {
+.gallery_h2 {
     margin-top: 45px;
     margin-bottom: 22.5px;
     color: #995a33;
@@ -291,9 +294,9 @@ header .row {
 
 
 #contact_h1 {
-    margin-top: 45px;
-    margin-bottom: 22.5px;
+    margin: 45px auto 22.5px auto;
     font-family: "Roboto", sans-serif;
+    text-align: center;
 }
 
 #contact_form label{

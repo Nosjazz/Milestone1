@@ -3,13 +3,18 @@
 Welcome to Nicolas Vandendriessche's User Centric Frontend Development Milestone Project!
 
 ## Background 
+
 The Cork local mosque website (http://www.corkmosque.com/admin/) is not maintained and difficult to navigate. I chose to redesign the current website to improve UX and accessibility.
 
 ## UX
 
 ### User Story
 
-X is living in cork with his wife and children and he's a practicing muslim. He uses the website mainly to check prayer time. As he has children, he's also interested to register them for weekend activities.
+As a X is living in cork He uses the website mainly to check prayer time.
+
+As a with his wife and children interested to register them for weekend activities.
+
+As a practicing muslim submit ideas 
 
 ### Wireframe
 
@@ -30,7 +35,9 @@ This website has been tested on Chrome and Mozillia with laptop, Iphone and Andr
 
 ## Deployment 
 
-The website has been deployed using GITHUB and can be access with the below link:
+The website has been deployed using github. EXPAND
+
+This can be access with the below link:
 
 https://nosjazz.github.io/Milestone1/.
 
