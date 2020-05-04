@@ -56,8 +56,8 @@ a:hover
 }
 
 .spacing {
-    margin-right:22.5px;
-    margin-left:22.5px;
+    margin-right:90px;
+    margin-left:90px;
 }
 
 /* ---------------------------------------------- Header */ 
@@ -309,7 +309,7 @@ header .row {
 }
 
 #contact_btn_submit button{
-    min-width: 75%;
+    max-width: 75%;
 }
 
 #contact_form p {
