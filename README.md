@@ -4,7 +4,7 @@ Welcome to Nicolas Vandendriessche's User Centric Frontend Development Milestone
 
 ## Background 
 
-The Cork local mosque website (http://www.corkmosque.com/admin/) is not maintained and difficult to navigate. I chose to redesign the current website to improve UX and accessibility.
+The Cork local mosque website (http://www.corkmosque.com/admin/) is not maintained and difficult to navigate. I chose to redesign the current website to improve UX and accessibility, with the agrement of current website owners.
 
 The main changes are ensuring the pages remain short with compelling title and add a dedicated section for prayer time (see user stories). The navbar has also been added above the main picture.
 
